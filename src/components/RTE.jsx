@@ -13,6 +13,8 @@ export default function RTE({ name, control, label, defaultValue = "" }) {
                 control={control}
                 render={({ field: { onChange } }) => (
                     <Editor
+                        //Add api key here from tinyMCE to use real time editor in this app
+                        //apiKey =''
                         initialValue={defaultValue}
                         init={{
                             initialValue: defaultValue,
