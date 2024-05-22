@@ -1,6 +1,7 @@
 # Blog App
 
 Blog App is a web application designed to empower users to create and manage their own blogs effortlessly.
+[Live link](https://blog-app-react-js.netlify.app)
 
 ## Key Features
 
